@@ -30,6 +30,7 @@
 			<Item Name="Deserialize JSON to LabVIEW Object Base Class.vi" Type="VI" URL="../source/examples/Deserialize JSON to LabVIEW Object Base Class.vi"/>
 			<Item Name="Deserialize JSON to LabVIEW Object.vi" Type="VI" URL="../source/examples/Deserialize JSON to LabVIEW Object.vi"/>
 			<Item Name="Serialize LabVIEW Object to JSON.vi" Type="VI" URL="../source/examples/Serialize LabVIEW Object to JSON.vi"/>
+			<Item Name="reflectionExample.vi" Type="VI" URL="../source/library/Support/OOP_Utility/ReflectionExample/reflectionExample.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="TEST - JKI JSON Object Serialization.lvlib" Type="Library" URL="../tests/TEST - JKI JSON Object Serialization.lvlib"/>
@@ -217,6 +218,14 @@
 				<Item Name="Get Cluster Element by Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Cluster Element by Name__ogtk.vi"/>
 				<Item Name="Array to VCluster__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array to VCluster__ogtk.vi"/>
 			</Item>
+			<Item Name="A.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/A/A.lvclass"/>
+			<Item Name="B.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/B/B.lvclass"/>
+			<Item Name="B1.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/B1/B1.lvclass"/>
+			<Item Name="B2.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/B2/B2.lvclass"/>
+			<Item Name="C.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/C/C.lvclass"/>
+			<Item Name="D.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/D/D.lvclass"/>
+			<Item Name="D1.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/D1/D1.lvclass"/>
+			<Item Name="D2.lvclass" Type="LVClass" URL="../source/library/Support/OOP_Utility/ReflectionExample/D2/D2.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="SourceDistribution" Type="Source Distribution">
