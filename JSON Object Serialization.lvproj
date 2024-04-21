@@ -27,6 +27,7 @@
 			</Item>
 			<Item Name="Adapt Class To Class.vi" Type="VI" URL="../source/examples/Adapt Class To Class.vi"/>
 			<Item Name="Adapt Cluster to Class.vi" Type="VI" URL="../source/examples/Adapt Cluster to Class.vi"/>
+			<Item Name="Adapt Class To Cluster.vi" Type="VI" URL="../source/examples/Adapt Class To Cluster.vi"/>
 			<Item Name="Deserialize JSON to LabVIEW Object Base Class.vi" Type="VI" URL="../source/examples/Deserialize JSON to LabVIEW Object Base Class.vi"/>
 			<Item Name="Deserialize JSON to LabVIEW Object.vi" Type="VI" URL="../source/examples/Deserialize JSON to LabVIEW Object.vi"/>
 			<Item Name="Serialize LabVIEW Object to JSON.vi" Type="VI" URL="../source/examples/Serialize LabVIEW Object to JSON.vi"/>
